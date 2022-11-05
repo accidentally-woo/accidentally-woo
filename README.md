@@ -5,7 +5,8 @@ Hello World :wave:
 ## Repository 구경하기
 - [:point_right: TIL](https://github.com/accidentally-woo/TIL)
 - [:point_right: Java 정리](https://github.com/accidentally-woo/java)
-- [:point_right: Spring Labs](https://github.com/accidentally-woo/spring-labs)
+- [:point_right: spring](https://github.com/accidentally-woo/spring-basic)
+- [:point_right: Spring Labs (Spring Docs - 심화 주의 :warning:)](https://github.com/accidentally-woo/spring-labs)
 - [:point_right: 웹개발 종합반](https://github.com/accidentally-woo/web-fullstack)
 
 ## 왕초보 개발 정보 모음
